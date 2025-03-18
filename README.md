@@ -1,6 +1,6 @@
-# ☕💳 Coffee Shop & Online Payment Gateway
+# ☕💳 Online Payment Gateway & Coffee Shop Simulator
 
-This project combines the combination **"Coffee Shop Simulator" + "Online Payment Gateway".** The project uses Factory Method, Decorator, and Adapter design patterns.
+This project combines the combination **"Online Payment Gateway" + "Coffee Shop Simulator"** The project uses Factory Method, Decorator, and Adapter design patterns.
 
 # Project Overview
 This console program offers users to choose coffee and add additional ingredients to them (for example: milk). Users can also choose a payment method and edit the payment.
